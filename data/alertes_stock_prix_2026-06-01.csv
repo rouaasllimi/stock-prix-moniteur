@@ -1,0 +1,10 @@
+﻿id_produit,produit_nom,stock_actuel,seuil_reapprovisionnement,statut_stock,prix_vente,concurrent_nom,prix_concurrent,risque_prix,detail_risque
+1,Widget A,9,15,Stock faible,9.99,Amazon,59.41,OK,Prix concurrent plus haut (59.41€)
+2,Gadget B,-22,10,En rupture,24.99,Amazon,127.95,OK,Prix concurrent plus haut (127.95€)
+4,Sensor Pro X,5,12,Stock faible,45.0,Amazon,145.41,OK,Prix concurrent plus haut (145.41€)
+5,LED Panel 60W,-25,8,En rupture,29.95,Amazon,130.64,OK,Prix concurrent plus haut (130.64€)
+6,USB-C Cable 2m,-15,25,En rupture,6.49,Amazon,115.22,OK,Prix concurrent plus haut (115.22€)
+7,Aluminium Frame,-17,5,En rupture,14.0,Amazon,184.68,OK,Prix concurrent plus haut (184.68€)
+8,Thermal Paste,2,30,Stock faible,3.99,Amazon,198.78,OK,Prix concurrent plus haut (198.78€)
+9,Mounting Bracket,-6,10,En rupture,0.89,Amazon,72.72,OK,Prix concurrent plus haut (72.72€)
+10,Power Supply 500W,-5,6,En rupture,54.99,Amazon,33.26,Critique,Concurrent 33.26€ ( -39% )
